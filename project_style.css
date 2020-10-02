@@ -129,3 +129,17 @@ h1, p{
   justify-content: center;
   align-items: center;
 }
+/* ------------------------------------------------------------------------------------ */
+.color_four{
+  background-color: rgb(197, 122, 227);
+  height: 100px;
+  width: 100%;
+}
+.picture_five{
+  background-image: url(https://res.cloudinary.com/g31ssa/image/upload/c_scale,w_900/v1601635965/Screen_Shot_2020-09-22_at_9.08.20_AM_t8yxtr.png);
+  width: 900px;
+  height: 486px;
+  background-repeat: no-repeat;
+  margin: 20px;
+}
+
